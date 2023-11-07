@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Atividade de fixação\bin\Debug\Atividade de fixação.exe.config
+C:\Users\Aluno\source\repos\Atividade de fixação\bin\Debug\Atividade de fixação.exe
+C:\Users\Aluno\source\repos\Atividade de fixação\bin\Debug\Atividade de fixação.pdb
+C:\Users\Aluno\source\repos\Atividade de fixação\obj\Debug\Atividade de fixação.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Atividade de fixação\obj\Debug\Atividade de fixação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Atividade de fixação\obj\Debug\Atividade de fixação.exe
+C:\Users\Aluno\source\repos\Atividade de fixação\obj\Debug\Atividade de fixação.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\ValidarSenha\bin\Debug\ValidarSenha.exe.config
+C:\Users\Aluno\source\repos\ValidarSenha\bin\Debug\ValidarSenha.exe
+C:\Users\Aluno\source\repos\ValidarSenha\bin\Debug\ValidarSenha.pdb
+C:\Users\Aluno\source\repos\ValidarSenha\obj\Debug\ValidarSenha.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ValidarSenha\obj\Debug\ValidarSenha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ValidarSenha\obj\Debug\ValidarSenha.exe
+C:\Users\Aluno\source\repos\ValidarSenha\obj\Debug\ValidarSenha.pdb

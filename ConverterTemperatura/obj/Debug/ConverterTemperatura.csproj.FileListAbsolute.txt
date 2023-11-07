@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\ConverterTemperatura\bin\Debug\ConverterTemperatura.exe.config
+C:\Users\Aluno\source\repos\ConverterTemperatura\bin\Debug\ConverterTemperatura.exe
+C:\Users\Aluno\source\repos\ConverterTemperatura\bin\Debug\ConverterTemperatura.pdb
+C:\Users\Aluno\source\repos\ConverterTemperatura\obj\Debug\ConverterTemperatura.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ConverterTemperatura\obj\Debug\ConverterTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ConverterTemperatura\obj\Debug\ConverterTemperatura.exe
+C:\Users\Aluno\source\repos\ConverterTemperatura\obj\Debug\ConverterTemperatura.pdb
